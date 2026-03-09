@@ -2,9 +2,6 @@
 
 🎨 A custom ribbon add-in for Microsoft Word that organizes Hebrew fonts (BA, BU, FB, LIA, EFT) with favorites, recent fonts, and family browsing.
 
-[![Download](https://img.shields.io/badge/Download-DOTM-blue)](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/hebrew%20fonts.dotm)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![Word](https://img.shields.io/badge/Word-2010%2B-orange)](https://www.microsoft.com/word)
-
 ## ✨ Features
 
 - ⭐ **Favorites System** - Star your most-used fonts for quick access
