@@ -250,11 +250,5 @@ If you find this useful, please **star** this repository to help others discover
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here when available)*
-
----
-
-**Made with ❤️ by Rabbi Eliazer**
+**Made with ❤️ by tosh developers**
  *For the Hebrew typography community*
