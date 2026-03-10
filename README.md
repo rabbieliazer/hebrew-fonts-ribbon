@@ -23,14 +23,21 @@
 
 ### ⚡ Method 1: One-Click Installer (Easiest - Recommended)
 
-1. **Download the installer**: [`install.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat) 2. **just double-click** `install.bat`
+1. **Download the installer**: 
+   - Right-click this link → **Save link as...** → [`install.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)
+   - Or [click here for direct download](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)
+
+2. **Run the installer**:
+   - Right-click `install.bat` → **Run as administrator** (or just double-click)
+
 3. **Follow the prompts**
+
 4. **Restart Microsoft Word**
 
 That's it! The installer will:
 - ✅ Check if Word is running
-- ✅ Download the latest version
-- ✅ Install to the correct folder
+- ✅ Download the latest version automatically
+- ✅ Install to the correct STARTUP folder
 - ✅ Clean up temporary files
 
 ---
@@ -38,7 +45,9 @@ That's it! The installer will:
 ### 📥 Method 2: Manual Installation
 
 #### Step 1: Download
-Click here to download: **[hebrew fonts.dotm](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/hebrew%20fonts.dotm)**
+**Right-click and "Save as"**: [`hebrew fonts.dotm`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/hebrew%20fonts.dotm)
+
+Or use this direct link in your browser:
 
 #### Step 2: Enable Macros
 1. Open **Microsoft Word**
