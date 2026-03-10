@@ -24,11 +24,11 @@
 
 ## 🚀 Installation
 
-### ⚡ Method 1: One-Click Installer (Easiest - Recommended)
+### ⚡ Method 1: One-Click Installer EXE (Easiest - Recommended)
 
-1. **[Download install.bat](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)**
-2. **Double-click** `install.bat` to run
-3. **Follow the prompts**
+1. **[Download HebrewFontsInstaller.exe](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/HebrewFontsInstaller.exe)**
+2. **Double-click** `HebrewFontsInstaller.exe` to run
+3. **Follow the on-screen prompts**
 4. **Restart Microsoft Word**
 
 The installer automatically:
@@ -37,9 +37,20 @@ The installer automatically:
 - ✅ Installs to the correct folder
 - ✅ Cleans up temporary files
 
+> **Note**: Your browser or Windows may show a security warning because this is a new file. Click "Keep" or "Run anyway" - the file is safe and open source.
+
 ***
 
-### 📥 Method 2: Manual Installation
+### ⚡ Method 2: Batch File Installer (Alternative)
+
+1. **[Download install.bat](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)**
+2. **Double-click** `install.bat` to run
+3. **Follow the prompts**
+4. **Restart Microsoft Word**
+
+***
+
+### 📥 Method 3: Manual Installation
 
 #### Step 1: Download
 **[Download hebrew fonts.dotm](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/hebrew%20fonts.dotm)**
@@ -61,6 +72,19 @@ The installer automatically:
 #### Step 4: Verify Installation
 Look for the **"Hebrew Fonts"** tab in your Word ribbon ✅
 
+***
+
+### 🔐 Security Notice (First Time Only)
+
+When you first open Word, you might see a security warning:
+
+1. Click **Enable Content** or **Enable Macros**
+2. If you see this warning every time:
+   - File → Options → Trust Center → **Trusted Locations**
+   - Click **Add new location**
+   - Browse to: `%APPDATA%\Microsoft\Word\STARTUP`
+   - Check **"Subfolders of this location are also trusted"**
+   - Click **OK**
 ***
 
 ### 🔐 Security Notice (First Time Only)
