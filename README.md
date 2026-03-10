@@ -113,12 +113,6 @@ When you first open Word, you might see a security warning:
 5. Delete the file when File Explorer opens
 6. **Restart Word**
 
-### Method 2: Batch Uninstaller
-1. **[Download uninstall.bat](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/uninstall.bat)**
-2. **Double-click** to run
-3. Confirm removal
-4. **Restart Word**
-
 ### Method 3: Manual Uninstall
 1. Press `Win + R`
 2. Type: `%APPDATA%\Microsoft\Word\STARTUP`
