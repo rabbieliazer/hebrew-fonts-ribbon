@@ -1,4 +1,4 @@
----
+***
 
 ## 📞 Support & Feedback
 
@@ -6,7 +6,7 @@
 - 💬 **Questions**: [Start a discussion](https://github.com/rabbieliazer/hebrew-fonts-ribbon/discussions)
 - ⭐ **Like it?**: [Star this repository!](https://github.com/rabbieliazer/hebrew-fonts-ribbon)
 
----
+***
 
 ## 📝 License
 
@@ -14,25 +14,26 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **In short**: Free to use, modify, and distribute. No warranty provided.
 
----
+***
 
 ## 🙏 Acknowledgments
 
-- Created with ❤️ for the Hebrew typography community
+- Created with ❤️ for the Hebrew typography community by **Tosh Developers**
 - Thanks to Hebrew font foundries: BA, BU, FB, LIA, EFT
 - Built with Microsoft Office RibbonX framework
 - Special thanks to all contributors and users
 
----
- ## 📊 Project Information
+***
+
+## 📊 Project Information
 
 - **Version**: 1.1
 - **Last Updated**: March 2026
-- **Author**: Rabbi Eliazer
+- **Author**: Tosh Developers
 - **Repository**: [github.com/rabbieliazer/hebrew-fonts-ribbon](https://github.com/rabbieliazer/hebrew-fonts-ribbon)
 - **Compatible With**: Word 2010, 2013, 2016, 2019, 2021, 365 (Windows)
 
----
+***
 
 ## 🌟 Show Your Support
 
@@ -40,7 +41,7 @@ If you find this useful, please **⭐ star this repository** to help others disc
 
 [![GitHub stars](https://img.shields.io/github/stars/rabbieliazer/hebrew-fonts-ribbon?style=social)](https://github.com/rabbieliazer/hebrew-fonts-ribbon/stargazers)
 
----
+***
 
 ## 🔄 Changelog
 
@@ -58,8 +59,8 @@ If you find this useful, please **⭐ star this repository** to help others disc
 - 📚 Company-based font organization
 - 👨‍👩‍👧‍👦 Family browser
 
----
+***
 
-**Made with ❤️ by Rabbi Eliazer**
+**Made with ❤️ by Tosh Developers**
 
 *For the Hebrew typography community*
