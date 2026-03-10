@@ -24,11 +24,10 @@
 ### ⚡ Method 1: One-Click Installer (Easiest - Recommended)
 
 1. **Download the installer**: 
-   - Right-click this link → **Save link as...** → [`install.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)
-   - Or [click here for direct download](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)
+   - [click here for direct download](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat)
 
 2. **Run the installer**:
-   - Right-click `install.bat` → **Run as administrator** (or just double-click)
+   - just double-click `install.bat`  (or Right-click → **Run as administrator**)
 
 3. **Follow the prompts**
 
