@@ -44,9 +44,7 @@ That's it! The installer will:
 ### 📥 Method 2: Manual Installation
 
 #### Step 1: Download
-**Right-click and "Save as"**: [`hebrew fonts.dotm`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/hebrew%20fonts.dotm)
-
-Or use this direct link in your browser:
+**use this direct link in your browser"**:
 
 #### Step 2: Enable Macros
 1. Open **Microsoft Word**
