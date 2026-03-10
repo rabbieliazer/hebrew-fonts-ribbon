@@ -9,8 +9,9 @@
 - 📚 **Company Groups** - Separate dropdowns for BA, BU, FB, LIA, and EFT
 - 👨‍👩‍👧‍👦 **Family Browser** - Browse by font family and select variants
 - 💾 **Persistent Storage** - Your favorites and recents are saved between sessions
--  🎯 **Current Font Display** - See which font is currently selected
+- 🎯 **Current Font Display** - See which font is currently selected
 - 🌟 **One-Click Favorites** - Star button next to each company dropdown
+- 🗑️ **Easy Uninstall** - Built-in uninstall button with step-by-step guidance  ← NEW!
 
 ## 📋 Requirements
 
@@ -139,11 +140,13 @@ When you first open Word, you might see a security warning:
 
 ## 🗑️ Uninstall
 
-### Using Uninstaller (Easy)
-1. Download [`uninstall.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/uninstall.bat)
-2. Double-click to run
-3. Confirm removal
-4. Restart Word
+### Using Built-in Uninstaller (Easiest - NEW!)
+1. Open Microsoft Word
+2. Go to the **Hebrew Fonts** tab
+3. Click the **Uninstall** button in the Settings group
+4. Follow the step-by-step instructions
+5. Delete the file when prompted
+6. Restart Word
 
 ### Manual Uninstall
 1. Press `Win + R`
