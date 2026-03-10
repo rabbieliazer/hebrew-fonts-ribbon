@@ -23,7 +23,7 @@
 
 ### ⚡ Method 1: One-Click Installer (Easiest - Recommended)
 
-1. **Download the installer**: [`install.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat) 2. **Right-click** `install.bat` → **Run as administrator** (or just double-click)
+1. **Download the installer**: [`install.bat`](https://github.com/rabbieliazer/hebrew-fonts-ribbon/raw/main/install.bat) 2. **just double-click** `install.bat`
 3. **Follow the prompts**
 4. **Restart Microsoft Word**
 
